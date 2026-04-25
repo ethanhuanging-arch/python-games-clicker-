@@ -1,2 +1,1 @@
-# python-games-clicker-
-this is python game
+Read me this game is in constant update it may shut done sooner or later
